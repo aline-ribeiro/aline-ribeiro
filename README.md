@@ -31,15 +31,16 @@
 
 <img src="https://singlecolorimage.com/get/E4D4C1/1000x4" width="100%"/>
 
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aline-ribeiro&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/aline-ribeiro&show_icons=true&theme=default&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-ribeiro&layout=compact&hide_border=true"/>
 </p>
 
 <img src="https://singlecolorimage.com/get/E4D4C1/1000x4" width="100%"/>
-
+-->
 ### 🌐 Connect with me
 
 <p align="left">
