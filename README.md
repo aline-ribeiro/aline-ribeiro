@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E4D4C1&height=200&section=header&text=Aline%20Ribeiro&fontColor=9A9E73&fontSize=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E4D4C1&height=190&section=header&text=Aline%20Ribeiro&fontColor=9A9E73&fontSize=50" width="100%"/>
 <h3 align="center">Data Analyst in training | Turning data into decisions</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38761D&center=true&vCenter=true&width=500&lines=Analyzing+data+day+to+day;Excel+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+R;Always+learning+and+evolving" alt="Typing SVG" />
 </p>
