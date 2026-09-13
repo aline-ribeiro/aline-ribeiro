@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E4D4C1&height=200&section=header&text=Aline%20Ribeiro&fontColor=38761D&fontSize=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E4D4C1&height=200&section=header&text=Aline%20Ribeiro&fontColor=9A9E73&fontSize=50" width="100%"/>
 <h3 align="center">Data Analyst in training | Turning data into decisions</h3>
 
 <p align="center">
